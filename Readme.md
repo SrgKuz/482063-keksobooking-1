@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Кузаков](https://up.htmlacademy.ru/javascript/16/user/482063).
-* Наставник: `Неизвестно`.
+* Наставник: `Mr.Travis`.
 
 ---
 
